@@ -7,7 +7,6 @@
 - 🌍 De Honduras 🇭🇳
 - 💡 Interesado en **desarrollo web, algoritmos, redes de computadoras y arquitectura de software**
 - 🎨 Me gusta combinar **diseño y tecnología** para crear experiencias intuitivas
-- 🏋️‍♂️ Apasionado del fitness y el bienestar 💪
 - 📚 También me encanta la historia, la filosofía y la literatura
 
 ## 🚀 Tecnologías y herramientas
