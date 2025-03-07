@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hola, soy Bryan Baquedano
 
-<!--
-**enmabry/enmabry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! 🚀 Soy un estudiante de Ingeniería Informática apasionado por la programación, el diseño de sistemas y el desarrollo web. Me encanta enfrentarme a nuevos desafíos y aprender constantemente sobre tecnologías innovadoras.
 
-Here are some ideas to get you started:
+## 🧑‍💻 Sobre mí
+- 🎓 Estudiante de **Ingeniería Informática**
+- 🌍 De Honduras 🇭🇳
+- 💡 Interesado en **desarrollo web, algoritmos, redes de computadoras y arquitectura de software**
+- 🎨 Me gusta combinar **diseño y tecnología** para crear experiencias intuitivas
+- 🏋️‍♂️ Apasionado del fitness y el bienestar 💪
+- 📚 También me encanta la historia, la filosofía y la literatura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y herramientas
+
+🔹 **Lenguajes:** JavaScript, TypeScript, Python, Java, SQL  
+🔹 **Frontend:** React.js, TailwindCSS, Carbon Design  
+🔹 **Backend:** Node.js, Express.js, Laravel  
+🔹 **Bases de Datos:** MySQL, PostgreSQL, MongoDB  
+🔹 **DevOps:** Docker, Git, Linux  
+🔹 **Redes:** Cisco Packet Tracer, configuración de redes y protocolos  
+
+## 📌 Proyectos destacados
+
+### 🌱 Nutrix Platform
+Plataforma de gestión de datos nutricionales con React y Laravel.
+
+### 🏨 Residencia Uneatlántico Platform
+Plataforma de gestión de reservas y hostelería.
+
+## 📫 Contacto
+📩 **Email:** bryanbaquedano11@gmail.com  
+
+⚡ *Siempre abierto a nuevas ideas y colaboraciones interesantes.*
