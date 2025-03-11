@@ -12,7 +12,7 @@
 ## 🚀 Tecnologías y herramientas
 
 🔹 **Lenguajes:** JavaScript, TypeScript, Python, Java, ese culito  
-🔹 **Frontend:** React.js, TailwindCSS, Carbon Design, VUE
+🔹 **Frontend:** React.js, TailwindCSS, Carbon Design, Vue
 🔹 **Backend:** Node.js, Express.js, Laravel  
 🔹 **Bases de Datos:** MySQL, PostgreSQL, MongoDB  
 🔹 **DevOps:** Docker, Git, Linux  
