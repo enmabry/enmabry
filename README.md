@@ -13,7 +13,6 @@
 
 🔹 **Lenguajes:** JavaScript, TypeScript, Python, Java, ese culito  
 🔹 **Frontend:** React.js, Vue.js, Carbon Design
-
 🔹 **Backend:** Node.js, Express.js, Laravel  
 🔹 **Bases de Datos:** MySQL, PostgreSQL, MongoDB  
 🔹 **DevOps:** Docker, Git, Linux  
