@@ -1,4 +1,4 @@
-# 👋 Hola, soy Bryan Baquedano
+Bryan Baquedano (que no se note el uso de chatgpt)
 
 ¡Bienvenido a mi perfil de GitHub! 🚀 Soy un estudiante de Ingeniería Informática apasionado por la programación, el diseño de sistemas y el desarrollo web. Me encanta enfrentarme a nuevos desafíos y aprender constantemente sobre tecnologías innovadoras.
 
