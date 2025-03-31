@@ -1,4 +1,4 @@
-# Bryan Baquedano (que no se note el uso de chatgpt)
+# Bryan Baquedano
 
 ¡Bienvenido a mi perfil de GitHub! 🚀 Soy un estudiante de Ingeniería Informática apasionado por la programación, el diseño de sistemas y el desarrollo web. Me encanta enfrentarme a nuevos desafíos y aprender constantemente sobre tecnologías innovadoras.
 
@@ -11,7 +11,7 @@
 
 ## 🚀 Tecnologías y herramientas
 
-🔹 **Lenguajes:** JavaScript, TypeScript, Python, Java, ese culito  
+🔹 **Lenguajes:** JavaScript, TypeScript, Python, Java 
 🔹 **Frontend:** React.js, Vue.js, Carbon Design  
 🔹 **Backend:** Node.js, Express.js, Laravel  
 🔹 **Bases de Datos:** MySQL, PostgreSQL, MongoDB  
