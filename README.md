@@ -13,8 +13,8 @@
 
 🔹 **Lenguajes:** JavaScript, TypeScript, Python, Java 
 🔹 **Frontend:** React.js, Vue.js, Carbon Design  
-🔹 **Backend:** Node.js, Express.js, Laravel  
-🔹 **Bases de Datos:** MySQL, PostgreSQL, MongoDB  
+🔹 **Backend:** Node.js, Laravel  
+🔹 **Bases de Datos:** MySQL, MongoDB, Neo4j 
 🔹 **DevOps:** Docker, Git, Linux  
 🔹 **Redes:** Cisco Packet Tracer, configuración de redes y protocolos  
 
