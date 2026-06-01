@@ -1,28 +1,23 @@
+|![](descarga.png)|
+|-:|
+<!-- Aquí irán los repositorios que me indiques -->
+[![](https://img.shields.io/badge/-Repo%201-FFFFFF?style=flat)](#) [![](https://img.shields.io/badge/-Repo%202-FFFFFF?style=flat)](#)
+
+<sup><i>"Sé tu propia lámpara" - <b>Buda</b></i></sup>
+
+<div align="center">
+
 # Bryan Baquedano
-Hola, me llamo bryan baquedano y soy estudiante en ingeniería informática. 
 
-## Sobre mí
--  Estudiante de **Ingeniería Informática**
--  De Honduras 🇭🇳
--  Me gusta combinar **diseño y tecnología** para crear experiencias intuitivas
--  También me encanta la historia, la filosofía y la literatura
+*«Hola, me llamo Bryan Baquedano. Soy estudiante de Ingeniería Informática originario de Honduras. A través de mis estudios, busco entrelazar el diseño y la tecnología para dar vida a experiencias intuitivas. Más allá de las líneas de código y la lógica, encuentro profunda fascinación e inspiración entre las páginas de la historia, la filosofía y la literatura.»*
 
-## Tecnologías y herramientas
+<br>
+⁂
+<br><br>
 
-🔹 **Lenguajes:** JavaScript, TypeScript, Java 
-🔹 **Frontend:** React.js, Vue.js, Carbon Design  
-🔹 **Bases de Datos:** MySQL, MongoDB, Neo4j 
-🔹 **DevOps:** Docker, Git, Linux  
-
-## Proyectos destacados
-
-### 🌱 Nutrix Platform
-Plataforma de gestión de datos nutricionales con React y Laravel.
-
-### 🏨 Residencia Uneatlántico Platform
-Plataforma de gestión de reservas y hostelería.
+</div>
 
 ##  Contacto
- **Email:** bryanbaquedano11@gmail.com  
+[![](https://img.shields.io/badge/-bryanbaquedano11@gmail.com-FFFFFF?style=flat&logo=gmail&logoColor=black)](mailto:bryanbaquedano11@gmail.com)  
 
 
