@@ -9,7 +9,7 @@
 
 # Bryan Baquedano
 
-*«Hola, me llamo Bryan Baquedano. Soy estudiante de Ingeniería Informática originario de Honduras. A través de mis estudios, busco entrelazar el diseño y la tecnología para dar vida a experiencias intuitivas. Más allá de las líneas de código y la lógica, encuentro profunda fascinación e inspiración entre las páginas de la historia, la filosofía y la literatura.»*
+*«Hola, soy Bryan. Estudiante de Ingeniería Informática originario de Honduras. Me gusta lo conceptual de la ingeniería aplicada y, a través de mis estudios, busco entender el mundo, mi alrededor, para poder crear cosas útiles. Más allá del código y el estudio, tengo una fascinación por la literatura, la filosofía y la música.»*
 
 <br>
 ⁂
