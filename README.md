@@ -1,7 +1,7 @@
 |![](descarga.png)|
 |-:|
 <!-- Aquí irán los repositorios que me indiques -->
-[![](https://img.shields.io/badge/-Repo%201-FFFFFF?style=flat)](https://github.com/enmabry/enmabry/reflexiones) [![](https://img.shields.io/badge/-Repo%202-FFFFFF?style=flat)](#)
+[![](https://img.shields.io/badge/-Repo%201-FFFFFF?style=flat)](https://github.com/enmabry/reflexiones) [![](https://img.shields.io/badge/-Repo%202-FFFFFF?style=flat)](#)
 
 <sup><i>"Sé tu propia lámpara" - <b>Buda</b></i></sup>
 
